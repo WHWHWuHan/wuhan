@@ -25,15 +25,15 @@ bio:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: 人类服务博士
+      institution: 坎特伯雷大学（新西兰）
       year: 2018
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2011
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 公共卫生硕士
+      institution: 诺丁汉特伦特大学（英国）
+      year: 2010
+    - course: 临床医学（八年制本科阶段）
+      institution: 中山大学
+      year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
