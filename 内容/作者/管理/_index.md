@@ -6,7 +6,7 @@ title: 何龙韬
 superuser: true
 
 # Role/position/tagline
-职称: 副教授
+role: 副教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,7 +17,7 @@ organizations:
 bio: 
 
 # Interests to show in About widget
-研究领域:
+ 研究领域:
  社会医学
  医务社会工作
 
@@ -27,10 +27,10 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
-      year: 2012
+      year: 2018
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2009
+      year: 2011
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
