@@ -6,7 +6,7 @@ title: 何龙韬
 superuser: true
 
 # Role/position/tagline
-role: 副教授
+职称: 副教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,7 +17,7 @@ organizations:
 bio: 
 
 # Interests to show in About widget
-interests:
+研究领域:
  社会医学
  医务社会工作
 
