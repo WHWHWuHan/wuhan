@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 何龙韬
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 副教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 西南财经大学社会发展研究院
+    url: https://sfy.swufe.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+ 社会医学
+ 医务社会工作
+
 
 # Education to show in About widget
 education:
